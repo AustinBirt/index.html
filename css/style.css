@@ -1,0 +1,26 @@
+.loginForm {
+    margin-top:30%;
+    margin-left:30%;
+    background-color:green;
+    width:285px;
+    box-shadow: 2px 2px 20px;
+}
+.loginForm img {
+    position:relative;
+    left:7rem;
+    bottom:2.5rem;
+    width:75px;
+    height:70px;
+    border-radius:60%;
+    
+}
+
+#formContent {
+    text-align:center;
+    padding-bottom:50px;
+  
+}
+
+.login input {
+    background-color:rgb(208, 202, 202);
+}
